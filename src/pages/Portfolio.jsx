@@ -30,8 +30,26 @@ const projects = [
   {
     name: "Logo Generator",
     description:
-      "A CLI application that allows user to generate an svg file based on a series of questions..",
+      "A CLI application that allows user to generate an svg file based on a series of questions.",
     url: "https://github.com/ChuckieCodes/logo-generator",
+  },
+  {
+    name: "Note Taker",
+    description:
+      "A web based app that let's user to add notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+    url: "https://github.com/ChuckieCodes/note-taker",
+  },
+  {
+    name: "Employee Tracker",
+    description:
+      "A CLI app, powered by node, inquirer.js and using mysql for the database. Lets you add, update and browse departments, roles and employees.",
+    url: "https://github.com/ChuckieCodes/employee-tracker",
+  },
+  {
+    name: "Ecommerce API",
+    description:
+      "Should serve as an api for an e-commerce store, built using node express, mysql and sequelize.",
+    url: "https://github.com/ChuckieCodes/ecommerce-api",
   },
 ];
 
